@@ -1,18 +1,15 @@
 #  The contact options.
 
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/adam-elkhayyat/"
+
+- type: stackoverflow
+  icon: "fas fa-brands fa-stack-overflow"
+  url: "https://stackoverflow.com/users/8618425/adam-e"
+
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fab fa-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
